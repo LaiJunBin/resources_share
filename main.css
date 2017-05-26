@@ -1,0 +1,278 @@
+#preview {
+    padding: 15px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+body {
+    font-size: 1rem;
+}
+
+body {
+    font-size: 1rem;
+}
+
+body {
+    font-size: 1rem;
+}
+
+body {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 2rem;
+}
+
+html,
+body {
+    font-family: Georgia, Cambria, serif;
+    height: 100%;
+}
+
+html {
+    font-size: .875em;
+}
+
+html {
+    font-size: .875em;
+}
+
+html {
+    font-size: .875em;
+}
+
+html,
+body {
+    font-family: Georgia, Cambria, serif;
+    height: 100%;
+}
+
+html {
+    font-size: .875em;
+    background: #fff;
+    color: #373D49;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+Pseudo ::before element *,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+Pseudo ::after element *,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+pre,
+blockquote p {
+    font-size: 1rem;
+    padding-top: .66001rem;
+}
+
+p,
+pre {
+    margin-bottom: 1.33999rem;
+}
+
+pre,
+blockquote p {
+    font-size: 1rem;
+    padding-top: .66001rem;
+}
+
+p,
+pre {
+    margin-bottom: 1.33999rem;
+}
+
+pre,
+blockquote p {
+    font-size: 1rem;
+    padding-top: .66001rem;
+}
+
+p,
+pre {
+    margin-bottom: 1.33999rem;
+}
+
+pre {
+    font-size: 1rem;
+    padding: .66001rem 9.5px 9.5px;
+    line-height: 2rem;
+    background: -webkit-linear-gradient(top, #fff 0, #fff .75rem, #f5f7fa .75rem, #f5f7fa 2.75rem, #fff 2.75rem, #fff 4rem);
+    background: linear-gradient(to bottom, #fff 0, #fff .75rem, #f5f7fa .75rem, #f5f7fa 2.75rem, #fff 2.75rem, #fff 4rem);
+    background-size: 100% 4rem;
+    border-color: #D3DAEA;
+}
+
+p,
+pre {
+    margin-bottom: 1.33999rem;
+}
+
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, monospace;
+}
+
+pre {
+    overflow: auto;
+}
+
+pre {
+    display: block;
+    margin: 0 0 10px;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #333;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+user agent stylesheet pre,
+xmp,
+plaintext,
+listing {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px 1em;
+}
+
+Inherited from body.ng-scope body {
+    font-size: 1rem;
+}
+
+body {
+    font-size: 1rem;
+}
+
+body {
+    font-size: 1rem;
+}
+
+body {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 2rem;
+}
+
+html,
+body {
+    font-family: Georgia, Cambria, serif;
+    height: 100%;
+}
+
+Inherited from html html {
+    font-size: .875em;
+}
+
+html {
+    font-size: .875em;
+}
+
+html {
+    font-size: .875em;
+}
+
+html,
+body {
+    font-family: Georgia, Cambria, serif;
+    height: 100%;
+}
+
+html {
+    font-size: .875em;
+    background: #fff;
+    color: #373D49;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+Pseudo ::before element *,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+Pseudo ::after element *,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+center#body {
+    font-size: 30px;
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.uploadText {
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    height: 500px;
+}
+
+input[type=checkbox].my-check,
+input[type=radio].my-radio {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 6px
+}
+
+input[type=checkbox].my-check:checked+.my-validate,
+input[type=radio].my-radio:checked+.my-validate {
+    color: #009688
+}
+
+input[type=checkbox].my-check:disabled+.my-validate,
+input[type=radio].my-radio:disabled+.my-validate {
+    color: #aaa
+}
+
+.my-input {
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #808080;
+    width: 100%;
+}
+
+#fileUpload {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 6px
+}
